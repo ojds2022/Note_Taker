@@ -31,6 +31,6 @@ No test instructions.
 If you have any questions, you can contact me at [odiazstrandberg@gmail.com](mailto:odiazstrandberg@gmail.com). 
 You can also find more of my work at [ojds2022](https://github.com/ojds2022).
 
-![Application Screenshot](./assets/images/note_taker.jpg "Application Screenshot")
+![Application Screenshot](./public/assets/images/note_taker.jpg "Application Screenshot")
 
-![Application Screenshot](./assets/images/note_taker_two.jpg "Application Screenshot")
+![Application Screenshot](./public/assets/images/note_taker_two.jpg "Application Screenshot")
